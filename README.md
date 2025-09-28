@@ -38,6 +38,23 @@ This repository showcases a **DevOps Project** inspired by my experience at **Un
 
 ---
 
+
+        Client
+           |
+           v
+ Application Gateway (WAF)
+           |
+           v
+     Load Balancer
+           |
+           v
+     Web/App Servers
+           |
+           +--> Bastion Host (Admin Access)
+           |
+           +--> HTTPS/TLS Encryption
+
+
 ## 🚀 How to Use
 1. Clone this repo  
    ```bash

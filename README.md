@@ -39,6 +39,9 @@ This repository showcases a **DevOps Project** inspired by my experience at **Un
 ---
 
 
+
+
+
         Client
            |
            v
@@ -53,6 +56,12 @@ This repository showcases a **DevOps Project** inspired by my experience at **Un
            +--> Bastion Host (Admin Access)
            |
            +--> HTTPS/TLS Encryption
+
+
+
+
+
+
 
 
 ## 🚀 How to Use
